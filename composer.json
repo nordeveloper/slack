@@ -2,7 +2,9 @@
     "name": "nordeveloper/slack",
     "description": "Slack Message",
     "type": "library",
+    "keywords": ["slack", "php"],
     "license": "MIT",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Nordeveloper\\": "src/"
@@ -14,6 +16,5 @@
             "email": "nordeveloper@gmail.com"
         }
     ],
-    "require": {},
-    "minimum-stability": "stable"
+    "require": {}
 }
