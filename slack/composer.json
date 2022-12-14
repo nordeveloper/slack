@@ -1,0 +1,17 @@
+{
+    "name": "nordeveloper/slack",
+    "description": "Slack Message",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nordeveloper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nordeveloper",
+            "email": "nordeveloper@gmail.com"
+        }
+    ],
+    "require": {}
+}
