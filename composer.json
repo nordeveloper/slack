@@ -2,6 +2,7 @@
     "name": "nordeveloper/slack",
     "description": "Slack Message",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Nordeveloper\\": "src/"
