@@ -14,5 +14,6 @@
             "email": "nordeveloper@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
